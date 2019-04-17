@@ -1,0 +1,7 @@
+C:\Users\Huizi\Documents\Visual Studio 2010\Projects\UrlTrack\UrlTrack\obj\x86\Debug\Interop.SHDocVw.dll
+C:\Users\Huizi\Documents\Visual Studio 2010\Projects\UrlTrack\UrlTrack\obj\x86\Debug\UrlTrack.csproj.ResolveComReference.cache
+C:\Users\Huizi\Documents\Visual Studio 2010\Projects\UrlTrack\UrlTrack\bin\x86\Debug\UrlTrack.dll
+C:\Users\Huizi\Documents\Visual Studio 2010\Projects\UrlTrack\UrlTrack\bin\x86\Debug\UrlTrack.pdb
+C:\Users\Huizi\Documents\Visual Studio 2010\Projects\UrlTrack\UrlTrack\obj\x86\Debug\UrlTrack.dll
+C:\Users\Huizi\Documents\Visual Studio 2010\Projects\UrlTrack\UrlTrack\obj\x86\Debug\UrlTrack.pdb
+C:\Users\Huizi\Documents\Visual Studio 2010\Projects\UrlTrack\UrlTrack\bin\x86\Debug\WebSocket4Net.dll

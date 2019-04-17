@@ -1,0 +1,246 @@
+/*copyright image, qyestions? bigger*/
+
+#bottom-line {
+	margin-top: 20%;
+	height: 5px;
+	margin: 0;
+}
+
+#bottom-logo {
+	height: 25px;
+	float: right;
+	padding-top: 5px;
+}
+
+#contact-us {
+	float: left;
+	padding-top: 5px; /*to be in line with logo */
+	font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+	font-size: 15px;
+}
+
+#content {
+	padding-top: 70px;
+	padding-left: 7%;
+	padding-right: 7%;
+	margin-bottom: 30px;
+	line-height: 1.5em;
+	font-size: 1.25em;
+}
+
+#dayNum {
+	border-radius: 25px;
+	margin: auto;
+    width: 50%;
+    padding: 20px;
+	border: 1px solid #666;
+	color:black;
+	font-size: 150%;
+	font-weight: bold;
+	font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+	text-align: center;
+
+	/*source: http://hugoware.net/snippets/simple-css-button*/
+	border-color: #8fc800;
+  	background: #8fc800;
+  	background: -moz-linear-gradient(top, #8fc800 0%, #438c00 100%);
+  	background: -webkit-gradient(linear, left top, left bottom, 
+    color-stop(0%,#8fc800), color-stop(100%,#438c00));
+  	background: -webkit-linear-gradient(top, #8fc800 0%,#438c00 100%);
+  	background: -o-linear-gradient(top, #8fc800 0%,#438c00 100%);
+  	background: -ms-linear-gradient(top, #8fc800 0%,#438c00 100%);
+  	background: linear-gradient(top, #8fc800 0%,#438c00 100%);
+  	filter: progid:DXImageTransform.Microsoft.gradient( 
+    startColorstr='#8fc800', endColorstr='#438c00',GradientType=0 );
+}
+
+#email {
+	outline: black solid 2px;
+	padding: 10px;
+	background: #FCFCC5;
+}
+
+#emailAddr {
+	width: 500px;
+}
+
+#footer {
+	padding: 5%;
+	height: 30px;
+	float: bottom; /*float because of submit button*/
+	line-height: 120%;
+}
+
+#header {
+	background-color: #153394;
+	float: left;
+	padding: 13px 0px;
+	margin-left: -20px;
+	margin-top: 0px;
+	width: 200%;
+}
+
+#help {
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	font-size: 1.25em;
+	font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+}
+
+#index-submit {
+	background: rgb(28, 184, 65); /* this is a green */
+}
+
+#link {
+	padding-top: 20px;
+}
+
+#top-line {
+	height: 5px;
+	margin: 0;
+	padding-top: none;
+	margin: 0;
+	width: 200%;
+	margin-left: -300px;
+}
+
+#top-logo {
+	height: 30px;
+	padding: none;
+	padding-left: 3%;
+}
+
+body {
+	height: 100%;
+	margin-top: 0;
+    overflow-x: hidden;
+}
+
+input[type='radio'] {
+	margin-left: 4%;
+}
+
+input[type='submit'] {
+	float: right;
+	height:1.5em;
+	font-size:1.5em;
+	background-color:#FF8812;
+	color: white;
+	font-weight:400;
+
+	/*source: http://www.graemeboy.com/css-buttons */
+	-webkit-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	-moz-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border:none;
+	font-family:'Helvetica Neue',Arial,sans-serif;
+	text-shadow:#FE6 0 1px 0;
+}
+
+input[type='submit']:hover {
+	background-color: #BF650B;
+}
+
+input[type='text'] {
+	line-height: 1.8em;
+	width: 100%;
+}
+
+label, #content {
+	font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+}
+
+table {
+	width : 100%;
+	empty-cells : show;
+	table-layout: fixed;
+    
+    margin: 20px;
+    border: #ccc 1px solid;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -moz-box-shadow: 0 1px 2px #d1d1d1;
+    -webkit-box-shadow: 0 1px 2px #d1d1d1;
+    box-shadow: 0 1px 2px #d1d1d1;
+
+    border-spacing: 0px 8px;
+    margin: 40px 0px;
+
+    font-size: 0.9em;
+    line-height: 1.3em;
+}
+
+td, tr {
+	text-align: center; /* center checkbox horizontally */
+    vertical-align: middle; /* center checkbox vertically */
+}
+
+thead {
+	margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: #FCA956; /*grey*/
+}
+
+tr:nth-child(even) {
+    background-color: #DEDEDE; /*light orange*/
+}
+
+.comments {
+	height: 15%;
+}
+
+.highlight {
+	font-weight: 600;
+	background-color: #FBFF7A; /*yellow*/
+}
+
+.instr {
+	font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+	font-size: 1.15em;
+	font-style: oblique;
+	line-height: 1.5em;
+}
+
+.intro {
+	font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+	font-size: 1.1em;
+	padding-bottom: 1%;
+	line-height: 1.7em;
+}
+
+.line {
+	background-color: #FF8812; /*orange*/
+}
+
+.question {
+	font-family: "Segoe UI",Frutiger,"Frutiger Linotype","Dejavu Sans","Helvetica Neue",Arial,sans-serif;
+	/*font-size: 1.3em;*/
+	font-weight: bold;
+	line-height: 1.4em;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	padding-top: 0.5%;
+}
+
+.title {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 2em;
+	font-weight: bold;
+	text-align: center;
+	padding: 5% 0%;
+	line-height: 1.5em;
+}
+
+.welcome {
+	font-family: "Trebuchet MS","Lucida Grande","Lucida Sans Unicode","Lucida Sans",Tahoma,sans-serif;
+	font-size: 1.25em;
+}

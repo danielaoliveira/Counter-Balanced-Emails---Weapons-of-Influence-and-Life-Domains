@@ -1,0 +1,6 @@
+C:\Users\Huizi\Documents\Visual Studio 2010\Projects\UrlTrack\UrlTrack\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Huizi\Documents\Visual Studio 2010\Projects\UrlTrack\UrlTrack\obj\Debug\UrlTrack.csproj.ResolveComReference.cache
+C:\Users\Huizi\Documents\Visual Studio 2010\Projects\UrlTrack\UrlTrack\bin\Debug\UrlTrack.dll
+C:\Users\Huizi\Documents\Visual Studio 2010\Projects\UrlTrack\UrlTrack\bin\Debug\UrlTrack.pdb
+C:\Users\Huizi\Documents\Visual Studio 2010\Projects\UrlTrack\UrlTrack\obj\Debug\UrlTrack.dll
+C:\Users\Huizi\Documents\Visual Studio 2010\Projects\UrlTrack\UrlTrack\obj\Debug\UrlTrack.pdb
